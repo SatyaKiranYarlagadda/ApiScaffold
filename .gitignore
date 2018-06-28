@@ -1,0 +1,9 @@
+*.ide
+*.ide-shm
+*.ide-wal
+*.dll
+*.pdb
+obj/
+bin/
+.vs/Scaffold/v15/.suo
+.vs/Scaffold/DesignTimeBuild/.dtbcache
